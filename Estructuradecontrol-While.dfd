@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+"INGRESE UN NUMERO"
+5
+1
+1
+x
+6
+2
+1
+i
+1
+1
+4
+suma
+1
+0
+9
+1
+4
+i<=x
+4
+1
+19
+"INGRESE UN NUMERO"
+5
+1
+1
+n
+6
+2
+4
+suma
+6
+suma+n
+1
+i
+3
+i+1
+11
+4
+1
+42
+"LA SUMA DE LOS  ", x, "NUMEROS ES ", suma
+1

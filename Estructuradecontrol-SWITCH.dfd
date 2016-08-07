@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+"Ingrese un número de 1 a 50"
+5
+1
+6
+numero
+7
+0
+1
+12
+numero <= 10
+7
+0
+1
+12
+numero <= 20
+7
+0
+1
+12
+numero <= 30
+7
+0
+1
+11
+numero <=40
+7
+0
+1
+12
+numero <= 50
+7
+0
+1
+11
+numero > 50
+13
+4
+1
+17
+"Número inválido"
+13
+13
+4
+1
+15
+"Quinta decena"
+13
+13
+4
+1
+15
+"Cuarta decena"
+13
+13
+4
+1
+16
+"Tercera decena"
+13
+13
+4
+1
+16
+"Segunda decena"
+13
+13
+4
+1
+16
+"Primera decena"
+13
+1
